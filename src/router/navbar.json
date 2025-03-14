@@ -1,9 +1,6 @@
 [
   
-  {
-    "title": "Markdown 扩展",
-    "path": "md-loader/index"
-  },
+
   {
     "title": "Lodash",
     "children": [
@@ -22,5 +19,9 @@
       { "title": "_rgbToHsv", "name": "rgbToHsv", "path": "lodash/rgbToHsv" },
       { "title": "_Calendar", "name": "calendar", "path": "lodash/calendar" }
     ]
+  },
+  {
+    "title": "Markdown 扩展",
+    "path": "md-loader/index"
   }
 ]
