@@ -1,7 +1,7 @@
 @import url('./light.scss');
 @import url('./dark.scss');
-@import '../common/index.scss';
-@import '../common/screen.scss';
+@import url('../common/index.scss');
+@import url('../common/screen.scss');
 
 :root { 
   --primary-color: #438EDB; /* 主颜色 */
