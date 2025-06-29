@@ -160,7 +160,7 @@ rotateZ：定义沿着 Z 轴的 3D 旋转。
 ::: demo
 ```vue
 <div class='demo-flex'>
-  <div :class='["demo__css-animation-5", className]'></div>
+  <div :class="['demo__css-animation-5', className]"></div>
   <button @click='switchShow' class='demo-btn'>{{ isShow ? '弹出' : '弹起'}}</button>
 </div>
 
@@ -222,6 +222,8 @@ rotateZ：定义沿着 Z 轴的 3D 旋转。
     opacity: 0.2;
   }
 }
+
+</style>
 ```
 :::
 

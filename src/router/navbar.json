@@ -21,6 +21,22 @@
     ]
   },
   {
+    "title": "JS",
+    "children": [
+      { "title": "two-decimal-places", "name": "two-decimal-places", "path": "js/two-decimal-places"}
+    ]
+  },
+   {
+    "title": "CSS",
+    "children": [
+      { "title": "css", "name": "css", "path": "css/css"},
+      { "title": "css-animation", "name": "css-animation", "path": "css/css-animation"},
+      { "title": "align-content", "name": "align-content", "path": "css/align-content"},
+      { "title": "pointer-events", "name": "pointer-events", "path": "css/pointer-events"}
+    ]
+  },
+  
+  {
     "title": "Markdown 扩展",
     "path": "md-loader/index"
   }
